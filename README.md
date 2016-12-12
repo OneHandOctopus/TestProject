@@ -1,2 +1,4 @@
 # TestProject
-Just to learn github
+Just to learn github:
+How to work with branches
+How to commit changes
